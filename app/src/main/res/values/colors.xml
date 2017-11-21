@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0E932E</color>
+    <color name="colorPrimaryDark">#0b6c22</color>
+    <color name="colorAccent">#0E932E</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="black2">#666666</color>
+    <color name="gray">#999999</color>
+    <color name="blue">#2398ff</color>
+    <color name="red">#d81e06</color>
+    <color name="yellow">#f2df32</color>
+    <color name="pink">#f4a59a</color>
+    <color name="green">#26ca05</color>
+    <color name="wathet">#d7dfff</color>
+    <color name="wathet_dark">#8f9ee4</color>
+</resources>
